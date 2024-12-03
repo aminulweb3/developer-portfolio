@@ -163,3 +163,11 @@ main{
 	text-align: center;
 	margin-top: 50px;
 }
+
+/* footer style */
+footer{
+	display: flex;
+	background-color: #FFF8F3;
+	padding: 130px 150px;
+	margin: 100px;
+}
